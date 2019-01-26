@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/User/Documents/Ensias-3A/S5/IDM/tps/idmXtext/org.eclipse.emf.common-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Documents/Ensias-3A/S5/IDM/tps/idmXtext/org.eclipse.emf.ecore.xmi-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Documents/Ensias-3A/S5/IDM/tps/idmXtext/org.eclipse.emf.ecore-2.10.1.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/TModel"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/IDM"/>
+	<classpathentry kind="lib" path="C:/Users/User/Documents/Ensias-3A/S5/IDM/tps/idmXtext/guice-3.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/tmodelXtext"/>
+	<classpathentry kind="lib" path="C:/Users/User/Documents/Ensias-3A/S5/IDM/tps/idmXtext/org.eclipse.xtext_2.15.0.v20180916-0722.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

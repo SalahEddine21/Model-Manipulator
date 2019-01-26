@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ASCII"?>
+<mde.salah.org:Database xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mde.salah.org="http://www.mde.salah.org" xmi:id="_w6Ea8Bc9EemiOMeBxIHQKA" Name="School">
+  <table xmi:id="_0j4aQBc9EemiOMeBxIHQKA" Name="Prof">
+    <column xmi:id="_4a02oBc9EemiOMeBxIHQKA" Name="CIN"/>
+  </table>
+  <table xmi:id="_5UhewBc9EemiOMeBxIHQKA" Name="Matiere">
+    <column xmi:id="_6sbs4Bc9EemiOMeBxIHQKA" Name="Title"/>
+  </table>
+  <table xmi:id="_8dO8IBc9EemiOMeBxIHQKA" Name="Student">
+    <column xmi:id="_9ojfwBc9EemiOMeBxIHQKA" Name="CNE"/>
+  </table>
+  <table Name="admin">
+    <column Name="CINX"/>
+  </table>
+  <table Name="administrateur">
+    <column Name="CIN"/>
+  </table>
+</mde.salah.org:Database>

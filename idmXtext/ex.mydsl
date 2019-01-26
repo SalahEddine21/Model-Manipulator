@@ -1,0 +1,8 @@
+loader{
+	loadmodel "untitled.model" 
+	operations
+	{	
+		Update { Table{"table"} newName "administrateur" },
+		Update { Column {"column" table "administrateur"}  newName "CIN" }
+	}
+}
